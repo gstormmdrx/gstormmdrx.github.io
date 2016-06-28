@@ -1,10 +1,10 @@
 {
 	"Android": {
-		"MarketVersion": "2.7",
+		"MarketVersion": "2.7.1",
 		"MinimumBillingVersion": "2.7.1"
 	},
 	"iOS": {
-		"MarketVersion": "2.7",
+		"MarketVersion": "2.7.1",
 		"MinimumBillingVersion": "2.7.1"
 	}
 }
