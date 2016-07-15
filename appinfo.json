@@ -4,7 +4,7 @@
 		"MinimumBillingVersion": "2.7"
 	},
 	"iOS": {
-		"MarketVersion": "2.7.2",
-		"MinimumBillingVersion": "2.7.3"
+		"MarketVersion": "2.7",
+		"MinimumBillingVersion": "2.7"
 	}
 }
